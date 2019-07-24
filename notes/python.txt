@@ -1,0 +1,9 @@
+
+
+1.starting 
+	-download python
+	-download pycharm
+	-create project 
+
+2.hello world with print
+	print('hello world')

@@ -1,0 +1,300 @@
+
+#3 Python Tutorial for Beginners | Getting Started with Python
+
+	 *integer division or float division "//"
+	 	it will give just the integer back
+
+	 	5 //2 = 2
+
+	 *power of **
+
+	 	2**3 = 8 
+
+#4 Python Tutorial for Beginners | Variables in Python
+
+		store value 
+
+		assignment
+
+		** output of the previous operation 
+
+		user under score "_" 
+
+		example :
+
+		 _ + y
+
+	Variable type String :
+
+	 name = "hell wolrd"
+
+	 **string concate	with +
+
+	 		name +"hello world"
+
+	 -string itselft is an array so we can get the the value of every index
+
+	 		name[0] 
+
+	 	* if we start with negative index it will start from last index
+
+	 			name = "fahim"
+
+	 			name[-1] "m"
+
+	 	*print between index like 0 - 5 index
+
+	 			name[0:5]
+
+	 			** if you don't specify the end it will print till last 
+
+	 					name[0:]
+
+	 			** and if we don't have the starting part it will start form first and till the point
+
+	 					name[:4]
+
+	 			**string in python is immutable - it means you can not replace certain value 
+
+	 	*length of a string 
+
+	 			len(name)
+
+#5 Python Tutorial for Beginners | List in Python
+
+		list is basically array 
+
+
+		nums = [15,30,25,60,17,36]
+
+		everythin we done with string as a array works here too
+
+		*string array 
+
+				names = ['fahim','naiem','mukim']
+
+		*** in list we can have data of different type 
+
+			values = ['fahim',25,2.5]
+
+		** we can perform different operation on the list 
+
+			**list are mutable so we can add , remove etc
+
+			-nums.append(45);
+
+				it will add 45 at end of the list 
+
+			-insert
+
+				nums.insert(2,77)
+
+				it will be inserted at index 2
+
+			-remove 
+
+				nums.remove(14)
+
+				it will be remove the value 14 from the list
+
+			-pop 
+
+				pop will remove value form the list based on index or end of the list like a stack 
+
+					-with index
+
+						nums.pop(4)
+
+						it will remove the value from index 4
+
+					- normal pop will remove the last value from the list like stack
+
+			-del() it will help you delete multiple value
+
+				del nums[2:]
+
+					it means delete all the value from 3 index to last
+
+			-* add multiple values 
+
+				nums.extend([20,25])
+
+			-in build methods
+
+				-min 
+
+					min(nums)
+
+				-max
+					max(nums)
+
+				-sum(nums)
+
+				-sort
+
+					nums.sort()
+
+#6 Python Tutorial for Beginners | Tuple | Set in Python
+
+
+	touple is like list which is collection of data in a array .
+
+	but in list we can change different values and stauff but in case of touple we can not 
+
+	*so we call it immutable
+
+	**declearing a touple
+
+		tup = (21,3,3,6)
+
+		so in list we use squre brekets but in here we use round one
+
+	-two method ar available 
+
+		-index
+
+			tup.index(2)
+
+			it will return the index of 2
+
+		-count 
+
+			tup.count(4)
+
+				count the number of occurence of 4
+
+	**faster execution
+
+	--set 
+
+		collection of elements mean collection of unique elements
+
+		*concenpt of hash
+
+		*declear 
+
+			s  = {1,2,3,4,5}
+
+		*indexing is not supported . beacuse there is no proper sequence 
+
+		-explore the set function
+
+#7 Python Tutorial for Beginners | Python Set Path in Windows and Help 
+
+	help()
+
+	topics
+
+	help('name of topics')
+
+
+#8 Python Tutorial for Beginners | More on Variables in Python
+
+	**address of a variable
+
+		num = 5
+
+		use id(num) it will give us a address
+
+	** if python have the same data then the address will be same
+
+#9 Python Tutorial for Beginners | Data Types in Python
+
+	none
+		not assigned to any value
+	numeric
+
+		int float complex bool
+
+		complex number
+
+		type(num)
+	List
+	Tuple
+	Set
+	String
+	Range
+
+		range(0,10)
+
+		list = list(range(10))
+
+	Dictionary
+
+		d = {'name':'fahik'}
+
+		d.name
+
+#10 Python Tutorial for Beginners | Operators in Python
+
+	arithmetic operators
+
+		+,-,/,*
+
+	Assignment
+
+		x = 2 
+
+		x += 2
+
+		-one line multiple assignment
+
+			a,b = 5,6
+
+	Unary operator
+
+		unary 
+
+			n = -n
+
+	relational operator
+
+		a < b 
+
+		a >b 
+
+		a == b
+
+		a >= b 
+
+		a <= b
+
+		a != b 
+
+	Logical operator
+
+		 and , or , not
+
+
+
+
+#11 Python Tutorial for Beginners | Number System Conversion in Python
+
+	-convert binary
+
+		bin(25);
+		 -'ob1101'
+
+		 here 'ob' represent binary
+
+	-convert to octal
+
+		oct(25)
+
+			0o31
+
+		here 0o represent octal
+
+	-convert hex
+
+		hex(25)
+
+		0x
+
+#extra Swap 2 Variables in Python
+
+	
+
+
+
+
