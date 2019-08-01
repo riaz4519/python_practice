@@ -64,6 +64,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
 >>>>>>> 8cd12053c45f3ff93741d946da004c48af1c3662
   </component>
+<<<<<<< HEAD
+=======
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="99" />
     <option name="y" value="2" />
@@ -102,6 +104,7 @@
     </panes>
   </component>
 =======
+>>>>>>> 0b87679e5a6723ef182df2c1973a8a84f1155b92
   <component name="ProjectId" id="1OdICfFGuty02SLnHmhUqsRCGZ4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
 >>>>>>> 8cd12053c45f3ff93741d946da004c48af1c3662
@@ -124,10 +127,14 @@
     </option>
   </component>
 <<<<<<< HEAD
+  <component name="RunManager" selected="Python._15_input_output">
+=======
+<<<<<<< HEAD
   <component name="RunManager" selected="Python._6_list">
 =======
   <component name="RunManager" selected="Python.7_list_compre">
 >>>>>>> 8cd12053c45f3ff93741d946da004c48af1c3662
+>>>>>>> 0b87679e5a6723ef182df2c1973a8a84f1155b92
     <configuration name="2_indentation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="programiz" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -186,6 +193,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7_list_compre.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="_15_input_output" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="programiz" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_15_input_output.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -275,9 +304,11 @@
       <item itemvalue="Python.3_variables" />
       <item itemvalue="Python._4_constant" />
       <item itemvalue="Python.7_list_compre" />
+      <item itemvalue="Python._15_input_output" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python._15_input_output" />
         <item itemvalue="Python.7_list_compre" />
         <item itemvalue="Python._4_constant" />
         <item itemvalue="Python.3_variables" />
@@ -297,6 +328,7 @@
       <option name="presentableId" value="Default" />
       <updated>1563990624650</updated>
       <workItem from="1564300938971" duration="1584000" />
+      <workItem from="1564641387749" duration="2679000" />
     </task>
     <servers />
   </component>
@@ -337,7 +369,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -447,6 +481,7 @@
     </entry>
 =======
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/programiz$_15_input_output.coverage" NAME="_15_input_output Coverage Results" MODIFIED="1564643903851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/programiz$7_list_compre.coverage" NAME="7_list_compre Coverage Results" MODIFIED="1564302383692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
 >>>>>>> 8cd12053c45f3ff93741d946da004c48af1c3662
   </component>
