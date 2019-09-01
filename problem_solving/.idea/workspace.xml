@@ -54,7 +54,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../programiz" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -215,6 +215,7 @@
       <workItem from="1564892434929" duration="6649000" />
       <workItem from="1565237318723" duration="2412000" />
       <workItem from="1566629768190" duration="2500000" />
+      <workItem from="1567315604907" duration="157000" />
     </task>
     <servers />
   </component>
