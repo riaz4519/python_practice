@@ -45,7 +45,7 @@ def helper(string, left, right):
     end += 1
   return (start + 1, end - 1)
 
-print(longest_palindromic_substring('babad'))
+print(longest_palindromic_substring('abababa'))
 print(longest_palindromic_substring('cbbd'))
 
 
