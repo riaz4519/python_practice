@@ -12,4 +12,4 @@ def lru (str):
     return lru_ret
 
 if __name__ == "__main__":
-    print('-'.join(lru(["A", "B", "A", "C", "A", "B"])))
+    print('-'.join(lru(["A", "B", "C", "D", "E", "D", "Q", "Z", "C"])))
